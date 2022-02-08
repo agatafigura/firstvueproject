@@ -16,7 +16,15 @@ module.exports = {
 
       },
       backgroundImage: {
-        'leaves': "url(../assets/contact.png)"
+        'leaves': "url(../assets/bg.jpg)"
+      },
+      screens: {
+        'breakpoint': {'max': '893px'},
+        'breakpoint2': {'min': '894px', 'max': '938px'},
+        'breakpoint3': {'max': '760px'}
+      },
+      width: {
+        '99vw': '99vw'
       }
     },
   },

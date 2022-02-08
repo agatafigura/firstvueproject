@@ -1,10 +1,10 @@
 <template>
 
-<div class="absolute top-0 left-0 z-40 pb-5 pt-6 px-4 sm:px-6 lg:px-8 bg-transparent w-screen">
+<div class="fixed top-0 left-0 z-30 pb-5 pt-6 px-4 sm:px-6 lg:px-8  bg-very-light-sage w-screen">
           <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div class="flex items-center justify-between w-full md:w-auto">
-                <a href="#">
+                <a href="/">
                   <span class="sr-only">Workflow</span>
                   <img class="h-8 w-auto sm:h-10" src="./assets/logo.svg">
                 </a>
