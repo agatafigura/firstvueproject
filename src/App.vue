@@ -20,13 +20,13 @@
               </div>
             </div>
             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-              <a href="/firstvueproject" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
+              <a href="/" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
 
-              <a href="/firstvueproject/about" class="font-medium text-gray-500 hover:text-gray-900">About</a>
+              <a href="/about" class="font-medium text-gray-500 hover:text-gray-900">About</a>
 
-              <a href="/firstvueproject/contact" class="font-medium text-gray-500 hover:text-gray-900">Contact</a>
+              <a href="/contact" class="font-medium text-gray-500 hover:text-gray-900">Contact</a>
 
-              <a href="/firstvueproject/service" class="font-medium text-gray-500 hover:text-gray-900">Services</a>
+              <a href="/service" class="font-medium text-gray-500 hover:text-gray-900">Services</a>
             </div>
           </nav>
         </div>
