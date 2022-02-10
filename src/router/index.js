@@ -6,22 +6,22 @@ import Service from '../views/Service.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/firstvueproject',
     name: 'Home',
     component: Home
   },
   {
-    path: '/about',
+    path: '/firstvueproject/about',
     name: 'About',
     component: About
   },
   {
-    path: '/contact',
+    path: '/firstvueproject/contact',
     name: 'Contact',
     component: Contact
   },
   {
-    path: '/service',
+    path: '/firstvueproject/service',
     name: 'Service',
     component: Service
   }
