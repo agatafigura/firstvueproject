@@ -23,6 +23,7 @@
               <a href="/" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
 
               <router-link :to="{name: 'About'}" class="font-medium text-gray-500 hover:text-gray-900">About 2</router-link>
+              <router-link :to="{name: 'About'}" class="font-medium text-gray-500 hover:text-gray-900">About 2</router-link>
 
               <a href="/contact" class="font-medium text-gray-500 hover:text-gray-900">Contact</a>
 
