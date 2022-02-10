@@ -22,7 +22,7 @@
             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
               <router-link :to="{name: 'Home'}" class="font-medium text-gray-500 hover:text-gray-900">Home</router-link>
               <router-link :to="{name: 'About'}" class="font-medium text-gray-500 hover:text-gray-900">About</router-link>
-              <router-link :to="{name: 'Contact'}" class="font-medium text-gray-500 hover:text-gray-900">Contat</router-link>
+              <router-link :to="{name: 'Contact'}" class="font-medium text-gray-500 hover:text-gray-900">Contact</router-link>
               <router-link :to="{name: 'Service'}" class="font-medium text-gray-500 hover:text-gray-900">Services</router-link>
             </div>
           </nav>
