@@ -22,7 +22,7 @@
             <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
               <a href="/" class="font-medium text-gray-500 hover:text-gray-900">Home</a>
 
-              <a href="/about" class="font-medium text-gray-500 hover:text-gray-900">About</a>
+              <router-link :to="{name: 'About'}" class="font-medium text-gray-500 hover:text-gray-900">About 2</router-link>
 
               <a href="/contact" class="font-medium text-gray-500 hover:text-gray-900">Contact</a>
 
